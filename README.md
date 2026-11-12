@@ -17,3 +17,10 @@ Personal Language Library - Bangun dan kelola koleksi kosakata serta materi baha
 Support the Development ❤️
 
 Translate-E dikembangkan secara independen dan terus mengalami pengembangan untuk menghadirkan pengalaman belajar bahasa yang lebih baik. Thank you for being part of Translate-E's journey!
+
+## Unduh APK
+
+Unduh versi terbaru aplikasi di halaman Releases:
+https://github.com/aftatafta/translat-e-apk/releases/latest
+
+Pasang file `.apk` yang ada di bagian **Assets** pada release tersebut.
