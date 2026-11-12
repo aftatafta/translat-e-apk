@@ -1,5 +1,9 @@
 # translat-e-apk
 
+Translate-E adalah aplikasi catatan bahasa yang dirancang untuk membantu kamu belajar, memahami, dan mengelola kosakata baru dengan lebih mudah dalam satu tempat.
+
+
+
 Lebih dari sekadar aplikasi penerjemah, Translate-E memungkinkan kamu menerjemahkan kata atau kalimat secara langsung, menyimpan hasil terjemahan sebagai catatan, menambahkan gambar sebagai referensi visual, hingga mengorganisasi materi belajar dalam bentuk "deck".
 
 Fitur Utama
